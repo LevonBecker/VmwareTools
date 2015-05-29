@@ -37,7 +37,7 @@ Function Update-VM {
 	1) Powershell v2.0+
 	2) .Net 4.0+
 	3) PowerShell running CLR 4.0+
-		a) http://wiki.bonusbits.com/main/HowTo:Enable_.NET_4_Runtime_for_PowerShell_and_Other_Applications
+		a) http://www.bonusbits.com/wiki/HowTo:Enable_.NET_4_Runtime_for_PowerShell_and_Other_Applications
 	4) Execution Policy Unrestricted or RemoteSigned
 	5) Remote registry, WIMRM and RPC services running
 	2) Firewall access to remote computer

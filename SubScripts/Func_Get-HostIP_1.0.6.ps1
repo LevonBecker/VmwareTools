@@ -112,7 +112,7 @@ Function Get-HostIP {
 <# Author
 	Levon Becker
 	PowerShell.Guru@BonusBits.com
-	http://wiki.bonusbits.com
+	http://www.bonusbits.com
 #>
 
 <# Dependents
