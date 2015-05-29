@@ -60,7 +60,10 @@ Function Add-NFSDS {
 			If this switch is present a file browser poppup window will launch to select a text or csv
 			file with a list of remote computer hostnames to perform the tasks against.
 		.LINK
-			http://wiki.bonusbits.com/main/PSScript:Add-NFSDS
+			http://www.bonusbits.com/wiki/HowTo:Use_Vmware_Tools_PowerShell_Module
+			http://www.bonusbits.com/wiki/HowTo:Enable_.NET_4_Runtime_for_PowerShell_and_Other_Applications
+			http://www.bonusbits.com/wiki/HowTo:Setup_PowerShell_Module
+			http://www.bonusbits.com/wiki/HowTo:Enable_Remote_Signed_PowerShell_Scripts
 		#>
 
 	#endregion Help

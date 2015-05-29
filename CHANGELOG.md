@@ -1,4 +1,4 @@
-##CHANGE LOG
+#CHANGE LOG
 ---
 
 ##1.0.8 - 03/06/2013 - WIP

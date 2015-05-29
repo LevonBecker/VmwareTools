@@ -3,7 +3,7 @@
 ```WIP```
 A PowerShell Module that has various cmdlets to interact with Vmware vCenter environments.
 
-## Usage
+## Wiki
 
 http://www.bonusbits.com/wiki/HowTo:Use_Vmware_Tools_PowerShell_Module
 
